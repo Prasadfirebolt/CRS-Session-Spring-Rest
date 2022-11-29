@@ -6,7 +6,6 @@ import java.util.List;
 public class Student {
 	public int studentId;
 	public String studentName;
-	public 
 
 	public void registerForCourse(String courseId, String studentId)
 	{
